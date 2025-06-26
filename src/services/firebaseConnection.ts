@@ -5,7 +5,7 @@ import { getAuth } from "firebase/auth"
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCw6nOsRSJa45x2NiAJpgFUXS3xyzz4KG0",
+  apiKey: "SUA_CHAVE_AQUI",
   authDomain: "curso-25614.firebaseapp.com",
   projectId: "curso-25614",
   storageBucket: "curso-25614.firebasestorage.app",
